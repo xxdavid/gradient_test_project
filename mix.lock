@@ -1,0 +1,4 @@
+%{
+  "gradient": {:git, "https://github.com/esl/gradient.git", "be261dd45f9cffa7623377619da6946fd548349d", []},
+  "gradualizer": {:git, "https://github.com/josefs/Gradualizer.git", "5567a232df543ce23296bd9d27a14dc81a9ff188", [ref: "5567a23"]},
+}
